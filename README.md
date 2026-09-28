@@ -1,16 +1,14 @@
-## Hi there 👋
+# 你好，我是 ZZZ-178 👋
 
-<!--
-**ZZZ-178/ZZZ-178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+正在从零开始学习 GitHub 和编程。
 
-Here are some ideas to get you started:
+## 我正在做的事
+- 🚀 学习 GitHub，用 AI 辅助提升认知与能力
+- 📚 建立自己的个人知识库
+- 💡 探索用代码做点真正有用的东西
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我的收藏
+- [《高性价比人生指南》](https://github.com/eternity4719/HowToLiveBetter) —— 用最少的钱、时间和精力，换回最多的寿命、金钱和自由
+
+## 学习路线
+认知 → 动手 → 借力（AI）→ 创造
